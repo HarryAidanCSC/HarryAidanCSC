@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Data Scientist working in public policy and 
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect!!
 
 - **GitHub**: https://github.com/HarryAidanCSC/HarryAidanCSC
 - **LinkedIn**: https://www.linkedin.com/in/harry-mancinelli-830430222/

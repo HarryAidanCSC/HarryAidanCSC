@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Data Scientist working in public policy and 
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Featured Projects
 
 ### [EPC-Ratings-4-U](https://github.com/HarryAidanCSC/EPC-Ratings-4-U)
 **Description**: How can we use smart meters to provide up to real-time Energy Performance Certificate ratings for buildings in the UK based on modelled energy consumption? (Proof of concept as part of Evidence House hackathon)

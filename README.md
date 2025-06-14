@@ -48,7 +48,7 @@
 
 - [**EPC-Ratings-4-U**](https://github.com/HarryAidanCSC/EPC-Ratings-4-U): Real-time EPC ratings from smart meter data (Python, Streamlit, Scikit-learn)
 - [**Need Coffee**](https://github.com/HarryAidanCSC/need-coffee): React frontend for my coffee blog site (React, JavaScript, CSS)
-- [**Advent of Code 2024**](https://github.com/HarryAidanCSC/advent-of-code-2024): My solutions to AoC puzzles (Python, Java, JavaScript)
+- [**Advent of Code**](https://github.com/HarryAidanCSC/advent-of-code): My solutions to AoC puzzles (Python, Java, JavaScript)
 
 ---
 

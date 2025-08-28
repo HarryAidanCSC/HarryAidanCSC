@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education**: BSc Economics, University of Kent
+- 🎓 **Education**: BSc Economics, MSc Computer Science @ University of Bath (currently studying)
 - 💼 **Current Role**: Data Scientist @ UK Government
 - 🧠 **Interests**: AI, Data Science, Web Development, Economics, Big Data
 - 🌱 **Learning**: JavaScript, Java, C

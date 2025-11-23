@@ -8,7 +8,7 @@
 - 🎓 **Education**: BSc Economics, MSc Computer Science @ University of Bath (currently studying)
 - 💼 **Current Role**: Data Scientist @ UK Government
 - 🧠 **Interests**: AI, Data Science, Web Development, Economics, Big Data
-- 🌱 **Learning**: JavaScript, Java, C
+- 🌱 **Learning**: Rust, Foundations of Computation, Software Engineering
 
 ---
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,c,html,css"/>
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,c,html,css,rust"/>
   <br><br>
   <b>Cloud, DevOps & Version Control</b><br>
   <img src="https://skillicons.dev/icons?i=aws,azure,git,gitlab,github"/>
@@ -46,17 +46,9 @@
 
 ## 📂 Featured Projects
 
-- [**EPC-Ratings-4-U**](https://github.com/HarryAidanCSC/EPC-Ratings-4-U): Real-time EPC ratings from smart meter data (Python, Streamlit, Scikit-learn)
+- [**EPC-Ratings-4-U**](https://github.com/HarryAidanCSC/EPC-Ratings-4-U): Real-time EPC ratings from smart meter data (Python, Streamlit, Scikit-learn, ...)
 - [**Need Coffee**](https://github.com/HarryAidanCSC/need-coffee): React frontend for my coffee blog site (React, JavaScript, CSS)
-- [**Advent of Code**](https://github.com/HarryAidanCSC/advent-of-code): My solutions to AoC puzzles (Python, Java, JavaScript)
-
----
-
-## 🧑‍🚀 My GitHub Journey
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF00CC/HarryAidanCSC" alt="Harry's Github chart" />
-</p>
+- [**Advent of Code**](https://github.com/HarryAidanCSC/advent-of-code): My solutions to AoC puzzles (Python, Java, JavaScript, ...)
 
 ---
 

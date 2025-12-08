@@ -35,20 +35,18 @@
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryAidanCSC&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryAidanCSC&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-one-opal-72.vercel.app/api/top-langs/?username=HarryAidanCSC&theme=radical&hide=css,jupyter%20notebook&langs_count=6" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryAidanCSC&theme=radical" height="180"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarryAidanCSC&theme=radical" />
 
+</p>
 
 ## 📂 Featured Projects
 
 - [**EPC-Ratings-4-U**](https://github.com/HarryAidanCSC/EPC-Ratings-4-U): Real-time EPC ratings from smart meter data (Python, Streamlit, Scikit-learn, ...)
 - [**Need Coffee**](https://github.com/HarryAidanCSC/need-coffee): React frontend for my coffee blog site (React, JavaScript, CSS)
-- [**Advent of Code**](https://github.com/HarryAidanCSC/advent-of-code): My solutions to AoC puzzles (Python, Java, JavaScript, ...)
+- [**Advent of Code**](https://github.com/HarryAidanCSC/advent-of-code): My solutions to AoC puzzles (Python, Java, Rust, ...)
 
 ---
 

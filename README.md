@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-one-opal-72.vercel.app/api/top-langs/?username=HarryAidanCSC&theme=radical&hide=css,jupyter%20notebook&langs_count=6" />
+  <img src="https://github-readme-stats-one-opal-72.vercel.app/api/top-langs/?username=HarryAidanCSC&theme=radical&hide=css,jupyter%20notebook&langs_count=6&cache_seconds=0&v=123" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarryAidanCSC&theme=radical" />
 

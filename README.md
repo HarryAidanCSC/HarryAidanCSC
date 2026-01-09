@@ -8,7 +8,7 @@
 - 🎓 **Education**: BSc Economics, MSc Computer Science @ University of Bath (currently studying)
 - 💼 **Current Role**: Data Scientist @ UK Government
 - 🧠 **Interests**: AI, Data Science, Web Development, Economics, Big Data
-- 🌱 **Learning**: Rust, Foundations of Computation, Software Engineering
+- 🌱 **Learning**: Rust, Foundations of Computation, Computer Vision
 
 ---
 
